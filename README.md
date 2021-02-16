@@ -11,10 +11,8 @@
 
 
 [AvoRed](https://avored.com/) is a free open-source e-commerce platform written in PHP based on Laravel.    
-Its an ingenuous and modular e-commerce that is easily customizable according to your needs, with a modern responsive mobile friendly interface as default.    
-The main advantage of being an modular E-Commerce is that you can download each module separately that is necessary for your store.
+in this project we focus on mooding avored to woocommerce site, and verifying compatibilty with national banks.
 
-[![Chat on Slack](https://img.shields.io/badge/join--slack-avored--ecommerce-c62828.svg?longCache=true&style=for-the-badge&logo=slack&color=#c62828)](https://join.slack.com/t/avored/shared_invite/zt-5osaf044-nuTeldrwVsa~xI0XyVlZjQ)
 
 ## Changelog
 
