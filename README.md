@@ -9,7 +9,6 @@
     <a href="https://packagist.org/packages/avored/framework" target="_blank"><img src="https://poser.pugx.org/avored/framework/license" alt="License"></a>
 </p> 
 
-#### [AvoRed](https://avored.com/) is commin up as a headless graphql version.
 
 [AvoRed](https://avored.com/) is a free open-source e-commerce platform written in PHP based on Laravel.    
 Its an ingenuous and modular e-commerce that is easily customizable according to your needs, with a modern responsive mobile friendly interface as default.    
@@ -19,15 +18,14 @@ The main advantage of being an modular E-Commerce is that you can download each 
 
 ## Changelog
 
-All notable changes to [AvoRed](https://avored.com/) will be documented [here](CHANGELOG.md).
+All notable changes to [ordou360 shopping](https://ordou360.com) will be documented [here](CHANGELOG.md).
 
 ## Documentation
 
-Please visit the [AvoRed Documentation](https://avored.com/docs) to get started with [AvoRed](https://avored.com/).
 
 ## Demo 
 
-A demo store can be found at [https://demo.avored.com](https://demo.avored.com/).
+An outdoorequipment store with changes on cart can be found at [https://ordou360.com/hiking/](https:ordou360.com/hiking/).
 
 ## Contributing
 
@@ -35,8 +33,6 @@ Please read our [contributing guide](.github/CONTRIBUTING.md) if you want to con
 
 ## Contributors
 
-[AvoRed](https://avored.com/) exists thanks to all the people who contribute. [[Contribute]](.github/CONTRIBUTING.md).
-<a href="https://github.com/avored/laravel-ecommerce/graphs/contributors"><img src="https://opencollective.com/laravel-ecommerce/contributors.svg?width=890" title="contributors" alt="contributors" /></a>
 
 ## Sponsors
 
